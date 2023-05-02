@@ -25,9 +25,6 @@ select * from All_listing;
 
 /*a. Analyze different metrics to draw the distinction between Super Host and Other
 Hosts:
-To achieve this, you can use the following metrics and explore a few yourself as well.
-Acceptance rate, response rate, instant booking, profile picture, identity verified,
-review scores, average no of bookings per month, etc.*/
 
 use Rental_Property;
 
