@@ -1,7 +1,8 @@
 
 # Project Title
 
-HOST BEHAVIOR ANALYSIS: SQL, PYTHON, POWER-BI, EXCEL.
+Host-Behavior-Analysis
+"Host-Behavior-Analysis" is a project focused on the analysis of property listings for a property rental company. The dataset provided has the information regarding the 2 cities in Canada, Greece, Italy, China and US each. The thorough analysis of the property listings is being done for the data and the meaningful insights have been provided, to comprehend how host behavior varies across a variety of metrics. Also extensive charts have been created to visualize the data in the best possible way.
 
 
 ## Problem Statement
